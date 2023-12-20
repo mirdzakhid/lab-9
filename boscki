@@ -3,3 +3,13 @@ import keyboard
 import logging
 n = []
 logging.basicConfig(filename="Lab_9.log", level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+while True:
+    try:
+        number = int(input('Введите натуральное число N: '))
+        logging.info(f"Логи для числа {number}")
+        logging.info(f"Число введенное ползователем {number}")
+        if number > 0:
+            break
+    except ValueError:
+        print('Вы ввели что-то не то')
+        logging.error("Ошбика ввода числа пользователем")
