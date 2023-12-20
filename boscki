@@ -2,3 +2,4 @@ from random import shuffle
 import keyboard
 import logging
 n = []
+logging.basicConfig(filename="Lab_9.log", level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
