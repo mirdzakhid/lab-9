@@ -18,13 +18,14 @@
 # Результаты тестирования
 Тест 1
 
-
+![Тест 1](https://github.com/LatypovAlmaz/Lab_9/assets/146587126/6a7210ce-dff3-4c18-af2e-aed6f87addff)
 
 
 Тест 2
 
-
+![Тест 2](https://github.com/LatypovAlmaz/Lab_9/assets/146587126/f5752a9e-8c8e-4b43-97b8-e70e0352a445)
 
 
 Тест 3
 
+![Тест 3](https://github.com/LatypovAlmaz/Lab_9/assets/146587126/d60b3a57-0c0f-41bf-a747-6e689f53dc49)
